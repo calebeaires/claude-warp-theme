@@ -12,17 +12,17 @@ Based on [AuroralFrost/claude-light-theme](https://github.com/AuroralFrost/claud
 
 | Color     | Hex       | Preview |
 |-----------|-----------|---------|
-| Background | `#FFFFFF` | ![#FFFFFF](https://via.placeholder.com/16/FFFFFF/FFFFFF) |
-| Foreground | `#374151` | ![#374151](https://via.placeholder.com/16/374151/374151) |
-| Accent     | `#D97706` | ![#D97706](https://via.placeholder.com/16/D97706/D97706) |
+| Background | `#FAF9F5` | ![Background](https://img.shields.io/badge/-%20-FAF9F5?style=flat-square&labelColor=FAF9F5) |
+| Foreground | `#374151` | ![Foreground](https://img.shields.io/badge/-%20-374151?style=flat-square&labelColor=374151) |
+| Accent     | `#D97706` | ![Accent](https://img.shields.io/badge/-%20-D97706?style=flat-square&labelColor=D97706) |
 
 ### Dark
 
 | Color     | Hex       | Preview |
 |-----------|-----------|---------|
-| Background | `#1A1A1A` | ![#1A1A1A](https://via.placeholder.com/16/1A1A1A/1A1A1A) |
-| Foreground | `#F5F5F5` | ![#F5F5F5](https://via.placeholder.com/16/F5F5F5/F5F5F5) |
-| Accent     | `#D97706` | ![#D97706](https://via.placeholder.com/16/D97706/D97706) |
+| Background | `#1A1A1A` | ![Background](https://img.shields.io/badge/-%20-1A1A1A?style=flat-square&labelColor=1A1A1A) |
+| Foreground | `#F5F5F5` | ![Foreground](https://img.shields.io/badge/-%20-F5F5F5?style=flat-square&labelColor=F5F5F5) |
+| Accent     | `#D97706` | ![Accent](https://img.shields.io/badge/-%20-D97706?style=flat-square&labelColor=D97706) |
 
 ---
 

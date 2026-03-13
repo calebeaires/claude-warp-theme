@@ -2,7 +2,7 @@
 # Inspired by Claude AI's web interface
 # https://github.com/AuroralFrost/claude-light-theme
 accent: "#D97706"
-background: "#FFFFFF"
+background: "#FAF9F5"
 details: lighter
 foreground: "#374151"
 terminal_colors:
