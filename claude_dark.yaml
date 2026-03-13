@@ -1,0 +1,26 @@
+# Claude Dark Theme for Warp
+# Inspired by Claude AI's web interface
+# https://github.com/AuroralFrost/claude-light-theme
+accent: "#D97706"
+background: "#1A1A1A"
+details: darker
+foreground: "#F5F5F5"
+terminal_colors:
+  bright:
+    black: "#888888"
+    blue: "#5AA3FF"
+    cyan: "#4ECDC4"
+    green: "#5CDB95"
+    magenta: "#FF6B9D"
+    red: "#EF4444"
+    white: "#FFFFFF"
+    yellow: "#FFB84D"
+  normal:
+    black: "#333333"
+    blue: "#2563EB"
+    cyan: "#0891B2"
+    green: "#059669"
+    magenta: "#C026D3"
+    red: "#DC2626"
+    white: "#B8B8B8"
+    yellow: "#D97706"
